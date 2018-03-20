@@ -1,0 +1,6 @@
+# files to ignore
+
+# Excel files
+*.xlsx
+*.xls
+
